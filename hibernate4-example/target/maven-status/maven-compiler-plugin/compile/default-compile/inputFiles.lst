@@ -1,0 +1,8 @@
+/home/sai/SAI/JAVA/git_repo/hibernate4-example/src/main/java/com/mycuteblog/hibernate4/model/User.java
+/home/sai/SAI/JAVA/git_repo/hibernate4-example/src/main/java/com/mycuteblog/hibernate4/dao/UserDao.java
+/home/sai/SAI/JAVA/git_repo/hibernate4-example/src/main/java/com/mycuteblog/hibernate4/controller/impl/UserControllerImpl.java
+/home/sai/SAI/JAVA/git_repo/hibernate4-example/src/main/java/com/mycuteblog/hibernate4/dao/impl/HibernateSessionFactoryImpl.java
+/home/sai/SAI/JAVA/git_repo/hibernate4-example/src/main/java/com/mycuteblog/hibernate4/controller/UserController.java
+/home/sai/SAI/JAVA/git_repo/hibernate4-example/src/main/java/com/mycuteblog/hibernate4/dao/HibernateSessionFactory.java
+/home/sai/SAI/JAVA/git_repo/hibernate4-example/src/main/java/com/mycuteblog/hibernate4/HibernateDemo.java
+/home/sai/SAI/JAVA/git_repo/hibernate4-example/src/main/java/com/mycuteblog/hibernate4/dao/impl/UserDaoImpl.java
